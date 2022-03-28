@@ -1,0 +1,55 @@
+body {
+    background-color: lightgray;
+
+}
+
+.blue {
+    position: relative;
+    width: 950px;
+    height: 950px;
+    background-color: blue;
+    margin: auto;
+}
+
+.red {
+    position: relative;
+    width: 750px;
+    height: 750px;
+    bottom: 850px;
+    background-color: red;
+    margin: auto;
+}
+
+.black {
+    position: relative;
+    width: 550px;
+    height: 550px;
+    bottom: 1500px;
+    background-color: black;
+    margin: auto;
+}
+
+.green {
+    position: relative;
+    width: 350px;
+    height: 350px;
+    bottom: 1950px;
+    background-color: green;
+    margin: auto;
+}
+
+.yellow {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    bottom: 2200px;
+    background-color: yellow;
+    margin: auto;
+}
+
+button {
+    position: relative;
+    bottom: 1775px;
+    left: 417px;
+}
+
